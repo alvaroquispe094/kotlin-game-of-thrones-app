@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="0.55"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:text="Personaje"/>
+
+<TextView
+    android:id="@+id/labelBorn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:drawableLeft="@drawable/ic_born"
+    android:drawableStart="@drawable/ic_born"
+    android:gravity="center_vertical"
+    android:drawablePadding="4dp"
+    tools:text="283 AC" />
+
+<TextView
+    android:id="@+id/labelActor"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:drawableLeft="@drawable/ic_actor"
+    android:drawableStart="@drawable/ic_actor"
+    android:gravity="center_vertical"
+    android:drawablePadding="4dp"
+    tools:text="Kit Harinngton" />
+
+<TextView
+    android:id="@+id/labelQuote"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:drawableLeft="@drawable/ic_quote"
+    android:drawableStart="@drawable/ic_quote"
+    android:gravity="center_vertical"
+    android:drawablePadding="4dp"
+    tools:text="I know nothing" />
+
+<TextView
+    android:id="@+id/labelParents"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:drawableLeft="@drawable/ic_parents"
+    android:drawableStart="@drawable/ic_parents"
+    android:gravity="center_vertical"
+    android:drawablePadding="4dp"
+    tools:text="Ned Stark" />
+
+<TextView
+    android:id="@+id/labelSpouse"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:drawableLeft="@drawable/ic_spouse"
+    android:drawableStart="@drawable/ic_spouse"
+    android:gravity="center_vertical"
+    android:drawablePadding="4dp"
+    tools:text="Sin esposa" />
+
+<!--        <Button-->
+<!--            android:id="@+id/btnSend"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            tools:text="Casa Stark" />-->
+
+</LinearLayout>

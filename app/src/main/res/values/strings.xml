@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Game Of Thrones App</string>
+    <string name="label_error">Ocurrió un error al solicitar la información</string>
+    <string name="label_retry">Reintentar</string>
+    <string name="label_accept">Aceptar</string>
+</resources>

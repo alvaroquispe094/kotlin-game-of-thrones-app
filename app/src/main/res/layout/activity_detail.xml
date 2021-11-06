@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/detailContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textStyle="bold"-->
+<!--            android:textSize="20sp"-->
+<!--            tools:text="Personaje"/>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelName"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="16dp"-->
+<!--            tools:text="Jon Snow" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelTitle"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="Lord omandante de la guardia nocturna" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelBorn"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="283 AC" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelActor"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="Kit Harinngton" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelQuote"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="I know nothing" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelParents"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="Ned Stark" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/labelSpouse"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            tools:text="Sin esposa" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnSend"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            tools:text="Casa Stark" />-->
+
+    </FrameLayout>
